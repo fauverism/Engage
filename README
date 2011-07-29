@@ -1,0 +1,17 @@
+ENGAGE WEBSTORM DARK & LIGHT COLOR SCHEMES
+
+VERSION 1.0
+
+CREATED
+July 29th, 2011 by Robert Fauver http://robertfauver.com
+
+DESCRIPTION
+• Optimized for CSS, HTML & JavaScript 
+
+HOW TO INSTALL ON A MAC
+• go to /Users/(your user name)/Library/Preferences/WebIDE10/colors/ and drag & drop engage-light.xml and engage-dark.xml in the folder
+• Restart WebStorm
+• Select Preferences then Colors & Fonts
+
+QUESTIONS, CONCERNS, ETC
+Are welcome.
